@@ -6,14 +6,17 @@ class Home extends StatelessWidget {
     // TODO: implement build
     return Center(
         child: Container(
-            alignment: Alignment.bottomCenter,
-            color: Colors.deepPurpleAccent,
-             width: 200,
-            height: 200,
+           alignment: Alignment.bottomCenter,
+           color: Colors.deepPurpleAccent,
+           // width: 200,
+           // height: 200,
+           // margin: EdgeInsets.all(20),
+            margin: EdgeInsets.only(left: 20),
+           // padding: EdgeInsets.only(left: 20),
             child: Text(
-              "Super",
-               style: TextStyle(color: Colors.red),
-      ),
+            "Super",
+            style: TextStyle(color: Colors.red,decoration: TextDecoration.none),
+            ),
     ));
   }
 }

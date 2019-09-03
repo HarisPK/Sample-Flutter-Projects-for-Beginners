@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(Center(
-    child: Text(
-      "Text",
-      textDirection: TextDirection.ltr,
-    ),
+import 'app_screens/home_screens.dart';
+
+void main(){
+  runApp(MaterialApp(
+    title: "learn conainer widget",
+    home: Home(),
   ));
 }

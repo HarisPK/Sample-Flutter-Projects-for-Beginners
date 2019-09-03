@@ -1,4 +1,4 @@
-# sample_one_textview
+# Flutter Projects for Beginners
 
 A new Flutter application.
 

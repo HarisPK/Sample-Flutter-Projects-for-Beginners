@@ -1,7 +1,7 @@
-# sample_one_textview
+# Flutter widgets
 
 A new Flutter application.
-
+Material App, Material, Scaffold
 ## Getting Started
 
 This project is a starting point for a Flutter application.

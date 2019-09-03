@@ -1,4 +1,4 @@
-# sample_one_textview
+# Showing Textview At Center
 
 A new Flutter application.
 

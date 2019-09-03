@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 
+import 'home_screen.dart';
+
 void main() {
-  runApp(Center(
-    child: Text(
-      "Text",
-      textDirection: TextDirection.ltr,
-    ),
+  runApp(MaterialApp(
+    home: Home(),
   ));
 }

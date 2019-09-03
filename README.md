@@ -1,6 +1,8 @@
-# sample_one_textview
+# Futter code Organization
 
 A new Flutter application.
+mentioned usage of fat arrow (=>)
+code alignment
 
 ## Getting Started
 

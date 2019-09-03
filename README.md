@@ -1,6 +1,6 @@
 # Flutter Projects for Beginners
 
-A new Flutter application.
+Sample project code starting. please follow each branches.
 
 ## Getting Started
 

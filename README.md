@@ -1,6 +1,6 @@
-# sample_one_textview
+# Method call from Flutter class
 
-A new Flutter application.
+A new Flutter application.wich help you to understand how to call a simple function from Flutter class.
 
 ## Getting Started
 

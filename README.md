@@ -1,10 +1,12 @@
-# sample_one_textview
+# FlutterContainer widget
 
-A new Flutter application.
+a sample code, which help full you to understand usage of container widget .
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+Container widget
 
 A few resources to get you started if this is your first Flutter project:
 

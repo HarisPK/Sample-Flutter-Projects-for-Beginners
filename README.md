@@ -1,4 +1,4 @@
-# FlutterContainer widget
+# Flutter Container widget
 
 a sample code, which help full you to understand usage of container widget .
 
